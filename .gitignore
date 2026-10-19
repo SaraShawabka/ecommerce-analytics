@@ -1,0 +1,7 @@
+﻿ecommerce.duckdb
+*.duckdb
+*.db
+.env
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
